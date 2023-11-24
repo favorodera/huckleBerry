@@ -110,7 +110,7 @@ body {
 
 /* Tablet Version */
 
-@media only screen and (min-width: 426px) and (max-width: 768px) {
+@media only screen and (min-width: 451px) and (max-width: 768px) {
 
   body {
     height: 1024px;
@@ -215,7 +215,7 @@ body {
 
 /* Mobile Version */
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 450px) {
   body {
     height: 844px;
   }
